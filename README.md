@@ -60,11 +60,11 @@ network-intrusion-detection/
 
 ├── models/
 
-│   ├── isolation_forest_model.pkl
+   ├── isolation_forest_model.pkl
 
-│   ├── scaler.pkl
+   ├── scaler.pkl
 
-│   └── autoencoder_model.keras
+   └── autoencoder_model.keras
 
 
 ---
